@@ -138,6 +138,12 @@ export const ProductDialog = ({
         });
       }
 
+      if (errorCode === "order_amount_is_too_small") {
+        toast({
+          description: tCheckout("payment.payment_too_small_error"),
+        });
+      }
+
       if (
         errorCode !== "order_amount_is_too_large" &&
         errorCode !== "products_are_out_of_stock" &&

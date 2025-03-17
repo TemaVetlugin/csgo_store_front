@@ -212,6 +212,14 @@ export default function Cart({ params: { lng } }) {
           />
         )}
       {isErrorProductsData &&
+        errorProductsData?.data?.error?.code ===
+          "order_amount_is_too_small" && (
+          <AlertWarning
+            className="mt-4"
+            description={tCheckout("payment.payment_too_small_error")}
+          />
+        )}
+      {isErrorProductsData &&
         errorProductsData?.data?.error?.code !== "order_amount_is_too_large" &&
         errorProductsData?.data?.error?.code !== "email_is_not_verified" &&
         errorProductsData?.data?.error?.code !== "products_are_out_of_stock" &&

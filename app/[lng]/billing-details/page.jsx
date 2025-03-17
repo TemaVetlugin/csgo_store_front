@@ -138,6 +138,12 @@ export default function BillingDetails({ params: { lng } }) {
                 });
             }
 
+            if (errorCode === "order_amount_is_too_small") {
+                toast({
+                    description: tCheckout("payment.payment_too_small_error"),
+                });
+            }
+
             if (errorCode === "payment_initialisation_failed") {
                 toast({
                     description: tCheckout("payment.payment_initialisation_error"),

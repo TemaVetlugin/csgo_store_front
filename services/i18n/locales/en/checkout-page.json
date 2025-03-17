@@ -23,6 +23,7 @@
     "payment_some_products_error": "Some of the selected products ({{products}}) are out of stock and no longer available to buy.",
     "payment_some_productss_error": "Some of the selected products are out of stock and no longer available to buy.",
     "payment_system_error": "The system cannot process such a large order at the moment. Please try to reduce the amount.",
+    "payment_too_small_error": "The order amount must be more than 1 euro",
     "payment_initialisation_error": "The payment system is currently unable to process your request. Please try again later or contact support if the issue persists.",
     "payment_email_not_verified_error": "You need to verify your email before making any purchases. A verification letter has been sent to your email",
     "iframe_pay_products": "Products:"
