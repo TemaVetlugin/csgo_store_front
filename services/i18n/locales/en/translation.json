@@ -1,0 +1,16 @@
+{
+  "general": {
+    "payment_methods": [
+      { "name": "Pay Pal", "type": "Cash" },
+      { "name": "Litecoin", "type": "Crypto" },
+      { "name": "Bitcoin", "type": "Crypto" },
+      { "name": "Ethereum", "type": "Crypto" },
+      { "name": "Venmo", "type": "Cash" },
+      { "name": "Payoneer", "type": "Cash" }
+    ],
+    "loading_fallback_text": "Loading...",
+    "select": {
+      "reset_the_filter_text": "Reset the filter"
+    }
+  }
+}

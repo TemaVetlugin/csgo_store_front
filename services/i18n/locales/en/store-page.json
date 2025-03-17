@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - Store",
+    "description": "The store page of CS:GO Store features a wide range of exclusive skins, accessories, and other gaming items, conveniently categorized"
+  },
+  "tab_buy_text": "Buy",
+  "tab_sell_text": "Sell",
+  "offer": {
+    "title": "You offer",
+    "sign_in_text": "Sign in",
+    "explore_your_inventory_text": "Explore your inventory",
+    "add_items_text": "Add the items you want to send",
+    "not_logged_in_text": "You are not logged in",
+    "please_sign_in_text": "Please sign in to begin trading!",
+    "sign_in_with_steam_button_label": "Sign in with Steam"
+  },
+  "payment": {
+    "title": "Select a payment method",
+    "text": "Select the cryptocurrency of your choice"
+  },
+  "details": {
+    "title": "Fill in your details",
+    "text": "Select the cryptocurrency of your choice",
+    "input_label": "Email Pay Pal",
+    "input_placeholder": "skin_seeker@example.com",
+    "confirm_input_label": "Confirm your PayPal email",
+    "confirm_input_placeholder": "skin_seeker@example.com",
+    "estimated_text": "Estimated fee (charged by PayPal)",
+    "total_amount_text": "Total amount",
+    "receive_your_cash_instantly_button_label": "Receive your cash instantly"
+  },
+  "sell_warn": {
+    "title": "Sorry, but it seems we can’t trade with you right now :(",
+    "texts": [
+      {
+        "title": "",
+        "description": "There could be several reasons for this. It might be a mistake or the result of Steam’s security\nsystem acting on your account. The checklist below will help you figure out what might be\ncausing the issue. Please make sure that:"
+      },
+      {
+        "title": "You’re Signed In and Provided Trade Link is Valid",
+        "description": "Before you can start trading, ensure that you are signed in to your Steam account and have\nprovided the correct trade link. You can check your link here: <a target='_blank' href='https://steamcommunity.com/my/tradeoffers/privacy'><i>Steam Trade Offers</i></a>"
+      },
+      {
+        "title": "Your Steam Account is Verified",
+        "description": "Your account must not be limited. A limited account cannot send or receive trade offers. To\nremove limitations, you need to spend at least $5 on Steam."
+      },
+      {
+        "title": "Your Steam Guard is Enabled",
+        "description": "Steam Guard must be enabled on your account for at least 15 days. This is Steam's two-factor\nauthentication system that secures your account. If Steam Guard has been disabled or recently\nreactivated, you must wait 15 days before being able to trade or use trade links."
+      },
+      {
+        "title": "Your Devices are Verified",
+        "description": "If you recently logged into Steam from a new device or location, your account will be restricted\nfrom trading for 7 days. Please wait for this restriction period to expire before attempting to\ntrade."
+      },
+      {
+        "title": "Check Trade Hold Periods",
+        "description": "Items purchased from the Steam Community Market or received via trade may be subject to a\n7-day trade hold for your safety."
+      },
+      {
+        "title": "Your Account Must Be at Least Level 5",
+        "description": "For security reasons, your account must be at least level 5 to sell skins on our platform.\nThis requirement ensures the integrity and safety of transactions."
+      },
+      {
+        "title": "",
+        "description": "</br>You can learn more about Steam's rules, security, and trade restrictions through these links:"
+      },
+      {
+        "title": "",
+        "description": "</br><ul><li>● <a target='_blank' href='https://help.steampowered.com/en/faqs/view/71D3-35C2-AD96-AA3A'><i>Limited User Accounts</i></a></li><li>● <a target='_blank' href='https://help.steampowered.com/en/faqs/view/451E-96B3-D194-50FC'><i>Trade and Market Restrictions</i></a></li><li>● <a target='_blank' href='https://support.steampowered.com/kb_article.php?ref=4020-ALZM-5519'><i>Steam Guard Setup</i></a></li><li>● <a target='_blank' href='https://support.steampowered.com/kb_article.php?ref=8078-TPHC-6195'><i>Item Holds</i></a></li></ul></br>"
+      },
+      {
+        "title": "",
+        "description": "If you still need help or have confirmed that your account meets all the requirements above, feel\nfree to reach out to our support team via the contact form on the <strong>\"Contact\"</strong> page or by email at <a href=\"mailto:info@csgostore.co.uk\"><i>info@csgostore.co.uk</i></a>."
+      }
+    ]
+  }
+}

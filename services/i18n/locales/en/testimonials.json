@@ -1,0 +1,41 @@
+{
+  "title": "Testimonials",
+  "items": [
+    {
+      "text": "This store is excellent! I've purchased several skins here, and every single one arrived instantly and was guaranteed authentic. Thank you for your unwavering reliability!",
+      "user": {
+        "name": "Eva Mendes",
+        "email": "eva@gmail.com",
+        "src": "",
+        "fallback": "EM"
+      }
+    },
+    {
+      "text": "As a newcomer to the world of CS:GO, this store has made my skin purchases completely worry-free. The registration process was a breeze, and the instant delivery is a game-changer!",
+      "user": {
+        "name": "Alex Hill",
+        "email": "alexhill1997@gmail.com",
+        "src": "",
+        "fallback": "AH"
+      }
+    },
+    {
+      "text": "I absolutely love how this store offers fantastic discounts for bulk purchases. Thanks to this, I've saved a substantial amount of money while equipping my entire team with awesome skins.",
+      "user": {
+        "name": "Andrew Russelt",
+        "email": "andrewpro87@gmail.com",
+        "src": "",
+        "fallback": "AR"
+      }
+    },
+    {
+      "text": "The notification system is a lifesaver! It keeps me up-to-date on all the latest skins and promotions. It's not just convenient but also a smart way to maximize savings on every purchase!",
+      "user": {
+        "name": "Maria Borduj",
+        "email": "mary65@gmail.com",
+        "src": "",
+        "fallback": "MB"
+      }
+    }
+  ]
+}

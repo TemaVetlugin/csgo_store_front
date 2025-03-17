@@ -1,0 +1,15 @@
+{
+  "firstLinks": [
+    { "name": "Home", "href": "/" },
+    { "name": "Store", "href": "/store" },
+    { "name": "About", "href": "/about" },
+    { "name": "FAQ", "href": "/faq" }
+  ],
+  "secondLinks": [
+    { "name": "Contact", "href": "/contact" },
+    { "name": "Terms & Conditions", "href": "/terms-and-conditions" },
+    { "name": "Privacy Policy", "href": "/privacy-policy" }
+  ],
+  "text": "Empowering Your CS:GO Journey",
+  "rights_reserved_text": "Ewanest Limited. Company number: 15321686. Registered address: Forest House Business Centre, 8 Gainsborough Road, London, E11 1HT. Email: info@csgostore.co.uk."
+}

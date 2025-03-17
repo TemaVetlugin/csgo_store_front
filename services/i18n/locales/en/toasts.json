@@ -1,0 +1,15 @@
+{
+  "contact_us_success_message": "Thank you for reaching us. We will contact you shortly.",
+  "news_subscription_success_message": "You were successfully subcribed to our news, promotions and updates.",
+  "email_is_sent_success_message": "The email was successfully installed.",
+  "profile_success_message": "Your chandes were successfully saved.",
+  "seller_link_copied_success_message": "The seller link was copied.",
+  "product_cart_empty_warning_message": "🤔 Your cart is empty, firstly add products.",
+  "product_added_to_cart_success_message": "👍 {{product}} was successfully added to the cart.",
+  "product_exist_in_cart_warning_message": "🤔 {{product}} already exist in the cart.",
+  "product_removed_from_cart_success_message": "😭 {{product}} was successfully removed fromt the cart.",
+
+  "checkout_payment_user_error": "Please login firstly, provide steam trade link and email, verify your account and proceed with buying.",
+  "checkout_payment_success_message": "You successfully bought {{products}}. Thank you for choosing us.",
+  "order_created_success_message": "The order has been successfully completed."
+}

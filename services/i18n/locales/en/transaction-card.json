@@ -1,0 +1,8 @@
+{
+  "details": "Details",
+  "type": "Type",
+  "transaction_id": "Transaction ID",
+  "status": "Status",
+  "price": "Price",
+  "date": "Date"
+}

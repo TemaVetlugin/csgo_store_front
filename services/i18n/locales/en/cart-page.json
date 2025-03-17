@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - Cart",
+    "description": "The CS:GO Store cart page where you can review your chosen skins and accessories, and proceed to checkout"
+  },
+  "title": "Your cart",
+  "cart_empty_text": "🧐 🤷‍♂ Your cart is empty",
+  "total_amount_due": "Total amount due:",
+  "checkout_button_label": "Checkout"
+}

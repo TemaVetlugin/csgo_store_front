@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - FAQ",
+    "description": "The FAQ page in CS:GO Store offers useful information and answers to common questions from our customers about products, purchasing process, and terms of use"
+  },
+  "tabs": [
+    {
+      "name": "General Information",
+      "active": true,
+      "items": [
+        {
+          "question": "What are skins, and why are they important in CS2?",
+          "answer": "Skins are cosmetic items in Counter-Strike 2 (CS:GO, CS2) that change the appearance of your\nweapons, knives, gloves, or other in-game equipment. They do not affect gameplay or provide\nany competitive advantage but are highly valued for their aesthetic appeal and collectability. </br></br>Players use skins to personalize their gaming experience, showcase their style, and even trade\nor sell them in the community marketplace. Some skins are rare and can become status\nsymbols among players, while others are sought after as investments due to their fluctuating\nmarket value. Skins add an extra layer of excitement and individuality to the game, making them\nan integral part of the CS2 experience."
+        },
+        {
+          "question": "How do I choose the right skin?",
+          "answer": "Choosing the right skin depends on your personal preferences and goals. Here are a few tips to\nhelp you make the best choice:</br></br> <ul><li>● Look for a skin that matches your style or complements your favorite weapon. Skins\ncome in various designs, colors, and themes, so pick one that resonates with you.</li><li>● If you’re interested in collectible or valuable items, consider skins with higher rarity\ngrades like \"Covert\" or \"Classified\". Rare skins often hold their value better over time.</li><li>● Skins have different wear levels, such as Factory New, Minimal Wear, or Battle-Scarred.\nHigher wear levels may show more visible wear but are often more affordable.</li>● Decide how much you’re willing to spend. There are great options available in every\nprice range, from affordable to premium-tier skins.<li></li></ul></br>Take your time to browse!"
+        },
+        {
+          "question": "Can I trade skins with other players in CS2?",
+          "answer": "Yes, you can trade skins with other players in CS2 through Steam's official trading system. This\nallows players to exchange skins directly, either for other skins. However, trades are subject to\nSteam's trade restrictions, such as account verification and trade cooldowns, to ensure safe and\nsecure transactions. Always double-check the skins you're trading to avoid scams or mistakes.</br></br>On our platform, direct trading between users is not possible. Instead, all transactions, including\nbuying and selling skins, are conducted through our automated bots. This ensures a secure and\nstreamlined process, where you can purchase or sell skins with confidence, knowing that the\ntransactions are handled safely through our system."
+        },
+        {
+          "question": "How do skin rarities affect their value?",
+          "answer": "Skin rarity plays a significant role in determining its value. Rarer skins, such as \"Covert\" or\n\"Classified\n\", are often more expensive because they are harder to find and hold their value\nbetter over time. The more limited the skin's availability, the higher the demand and price. Skins\ncan also be more valuable if they are part of a special collection or event. Generally, players are\nwilling to pay more for skins that are not only rare but also have a unique design or appeal."
+        },
+        {
+          "question": "What types of skins are available in CS2?",
+          "answer": "In CS2, skins are available for a variety of in-game items such as weapons, knives, and gloves.\nThese skins come in different designs, colors, and themes, allowing players to personalize their\nequipment. Some skins are specific to certain weapons (e.g., AK-47, M4A4), while others are for\ngloves or knife skins. Additionally, skins can vary in rarity, with common, rare, and limited-edition\nitems available for collection."
+        }
+      ]
+    },
+    {
+      "name": "Buying and Selling",
+      "active": false,
+      "items": [
+        {
+          "question": "What do I need to buy and sell skins in the CS:GO Store?",
+          "answer": "To buy and sell skins in the CS:GO Store, your Steam account must meet the following\nrequirements:</br></br> <ul>\n    <li>● Your Steam account must be set to public so we can verify your inventory and complete trades.</li>\n    <li>● You need to provide a valid and working Steam Trade URL to ensure successful transactions.</li>\n    <li>● Your Steam account must have a minimum level of 2.</li>\n    <li>● Steam Guard security must be enabled for at least 15 days to secure your account and allow trading.</li>\n    <li>● The skins you wish to sell must be tradeable and unlocked for transfer. If they are recently acquired, ensure the trade cooldown period has passed.</li>\n</ul> </br></br>Once these requirements are met, you’re all set to buy, sell, and trade skins securely in the\nCS:GO Store!"
+        },
+        {
+          "question": "How do I purchase a skin on your website?",
+          "answer": "Buying a skin on our website is quick and easy! Follow these steps:</br></br><ul><li>● Click the \"Login using Steam\" button to log in to your account securely. This allows us to connect with your Steam inventory.</li><li>● Make sure your Steam Trade URL is correctly linked to your account so we can send the item.</li><li>● Explore our catalog and choose the skin you’d like to purchase. Use filters or the search bar to find exactly what you need.</li><li>● Once you’ve found the perfect skin, click \"Add to Cart\" to proceed.</li><li>● Go to your cart and complete the checkout process. Select your preferred payment method and confirm the purchase.</li><li>● After the payment is confirmed, we’ll send the skin to your Steam account through our secure trading system.</li></ul></br></br>If you encounter any issues during the process, our support team is here to help!"
+        },
+        {
+          "question": "Can I sell my skins to you?",
+          "answer": "Yes, you can sell your skins to us! To do so, follow these steps: </br></br><ul><li>● Click the \"Login using Steam\" button to log in to your account securely. This allows us to connect with your Steam inventory.</li><li>● Make sure your Steam Trade URL is correctly linked to your account so we can send the item.</li><li>● Browse your inventory and choose the skins you'd like to sell.</li><li>● Once you’ve selected your items, submit them to us through our platform."
+        },
+        {
+          "question": "Is there a fee for payments?",
+          "answer": "Yes, a small processing fee is applied to your payment. The exact amount of the fee will be\ndisplayed during the checkout process, so you can review it before completing your purchase.</br></br>We are transparent about all charges to ensure you have a clear understanding of the total cost.\nIf you have any questions about fees, feel free to contact our support team!"
+        },
+        {
+          "question": "How quickly will I receive my skin after payment?",
+          "answer": "Typically, the process of receiving your skin takes just a few minutes after payment is confirmed.\nHowever, please note that it may take up to 24 hours to complete the transaction, depending on\nvarious factors.</br></br>If you haven't received your skin within this time frame, please contact our support team through\nthe contact form, and we will assist you as quickly as possible."
+        },
+        {
+          "question": "How long does the payout take?",
+          "answer": "The payout process typically takes up to 24 hours after your trade is completed. This timeframe\nallows us to verify the transaction and ensure everything is processed securely.</br></br>Once your payout is confirmed, the funds will be sent to your chosen payment method. If you\nencounter any delays or issues, please don't hesitate to contact our support team for\nassistance."
+        },
+        {
+          "question": "I no longer want to sell my item. How can I retrieve it?",
+          "answer": "If you've changed your mind about selling your item, you can cancel the sale through your\naccount by going to your listings and selecting the cancel or withdraw option. If you encounter\nany issues, feel free to contact our support team for assistance, and they’ll help you retrieve\nyour item."
+        }
+      ]
+    },
+    {
+      "name": "Support and Security",
+      "active": false,
+      "items": [
+        {
+          "question": "Are there guarantees for the authenticity of skins?",
+          "answer": "All skins traded through our platform are 100% authentic, as the exchange is conducted directly\nthrough the official Steam marketplace. This ensures that all items come from verified Steam\ninventories, eliminating the possibility of counterfeit skins. Your transactions are safe and\nsecure."
+        },
+        {
+          "question": "How can I contact you?",
+          "answer": "You can contact us through our official support channels:</br></br><ul><li>● Support form is available on our website for instant assistance on the “Contact” Page.</li><li>● Reach out to us at <a href=\"mailto:info@csgostore.co.uk\"><i>info@csgostore.co.uk</i></a>.</li></ul></br></br>Our support team is here to help and typically responds within 24 hours."
+        },
+        {
+          "question": "Will I receive faster assistance if I write several emails or fill the form a few times\nregarding the same issue?",
+          "answer": "No, submitting multiple emails or forms regarding the same issue will not speed up the process.\nIn fact, it may delay our response as it creates duplicate requests in our system. To ensure the\nfastest assistance, please submit your inquiry once and allow our support team time to review\nand respond. We aim to address all inquiries as quickly as possible."
+        },
+        {
+          "question": "Your bot asked me to send my entire inventory for verification, and now I’ve lost all my\nitems! Can I recover them?",
+          "answer": "We do not communicate with customers through any channels other than our official email: <a href=\"mailto:info@csgostore.co.uk\"><i>info@csgostore.co.uk</i></a>. Be cautious of scammers! We never contact users in Steam, nor do we\nask you to send your entire inventory. The only item we request is the one you have specifically\nselected for sale.</br></br>If you are unsure about a trade, do not proceed. Instead, contact our support team at <a href=\"mailto:ninfo@csgostore.co.uk\"><i>ninfo@csgostore.co.uk</i></a> to verify the trade and resolve any concerns. Unfortunately, we cannot\nrecover items lost to scams or unauthorized trades, so always double-check before confirming\nany transaction. Stay safe!"
+        }
+      ]
+    }
+  ]
+}

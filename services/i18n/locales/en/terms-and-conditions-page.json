@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - Terms & Conditions",
+    "description": "The 'Terms and Conditions' page at CS:GO Store contains important information about the rules and standards governing the use of our site and purchases in our store"
+  },
+  "title": "Terms & Conditions",
+  "text": "",
+  "list": [
+    {
+      "title": "Introduction",
+      "texts": [
+        "Welcome to csgostore.co.uk. These Terms of Use (“Terms”) govern your access to and use of our platform, <a href=\"https://csgostore.co.uk\"><i>https://csgostore.co.uk/</i></a> (the “Platform”), a digital platform where users can buy and sell Counter-Strike 2 (CS:GO, CS 2) skins. By accessing or using our Platform, you agree to comply with and be bound by these Terms. If you do not agree, please refrain from using the Platform.",
+        "Ewanest Limited is a company registered under the laws of England and Wales with the registration number 15321686. Its registered office is located at Forrest House Business Centre, 8 Gainsborough Road, London, E11 1HT, United Kingdom.",
+        "Our mission is to provide a safe, secure, and user-friendly environment for buying and selling CS2 (CS:GO) skins, fostering a trusted community for gamers worldwide.",
+        "If you have any questions or concerns about these Terms or the Platform, you can contact us at <a href=\"mailto:info@csgostore.co.uk\"><i>info@csgostore.co.uk</i></a>."
+      ]
+    },
+    {
+      "title": "Definitions",
+      "texts": [
+        "<strong>Platform:</strong> The website and associated services provided by us, enabling users to buy, sell, and withdraw funds related to CS2 (CS:GO) skins.",
+        "<strong>User:</strong> Any individual or entity that accesses, registers for, or otherwise uses the Platform, including buyers, sellers, and visitors.",
+        "<strong>Account:</strong> A personal account created by a User on the Platform, required to participate in transactions such as buying, selling, and withdrawing funds.",
+        "<strong>Skins:</strong> Virtual cosmetic items associated with the game Counter-Strike 2 (CS:GO, CS2), which can be traded or purchased on the Platform. These items are licensed by Valve Corporation and remain their intellectual property.",
+        "<strong>Marketplace:</strong> The Platform’s feature that allows Users to list, browse, purchase, and sell Skins.",
+        "<strong>Funds:</strong> Any monetary balance associated with a User’s Account, derived from sales of Skins or direct deposits, which can be withdrawn to external payment methods, subject to the Platform’s withdrawal policies.",
+        "<strong>Transaction:</strong> Any action involving the transfer of Skins, funds, or payment between Users on the Platform.",
+        "<strong>Deposit:</strong> The process of adding funds or Skins to a User's Account for the purpose of making purchases or participating in the Marketplace.",
+        "<strong>Withdrawal:</strong> The process by which Users transfer available funds from their Account on the Platform to an external payment method, such as a bank account, PayPal, or cryptocurrency wallet.",
+        "<strong>Commission:</strong> The percentage or fixed fee charged by the Platform on transactions will be clearly shown to the User during the transaction process before the payment.",
+        "<strong>Valve Corporation:</strong> The creator and operator of Counter-Strike 2 (CS:GO, CS2). The Platform is not affiliated with or endorsed by Valve Corporation, and Skins remain the intellectual property of Valve.",
+        "<strong>Prohibited Items:</strong> Skins or assets that are stolen, fraudulently obtained, or otherwise violate Valve’s or the Platform’s terms of use. These are not allowed for trade or sale on the Marketplace.",
+        "<strong>Prohibited Activities:</strong> Any actions that violate the Terms of Use, including but not limited to fraud, scams, use of unauthorised third-party software, or other activities that compromise the integrity of the Platform.",
+        "<strong>Payment Method:</strong> Any means by which Users can make payments to or receive payments from the Platform, including but not limited to credit cards, debit cards, or bank transfers.",
+        "<strong>Dispute:</strong> Any disagreement or conflict arising between Users or between a User and the Platform regarding transactions, Account status, or the use of services."
+      ]
+    },
+    {
+      "title": "User Accounts",
+      "texts": [
+        "<strong>Registration and authorisation:</strong>",
+        "Users are required to register and log in to the Platform exclusively via their Steam account. This method ensures a secure authentication process using Steam's third-party system. By logging in via Steam, Users authorise the Platform to access necessary public information from their Steam profile, such as their Steam ID, inventory data, and profile details.",
+        "The Platform does not store Steam login credentials, ensuring that the authentication process is\nhandled entirely by Steam's secure systems.",
+        "<strong>Eligibility Requirements</strong>",
+        "The Platform is intended for individuals who are legally permitted to use similar online services\nin their local jurisdiction. By creating or using an Account, Users confirm that they meet all legal\nrequirements, including but not limited to age restrictions and regional laws regarding the use of\nsuch services.",
+        "If a User does not meet these eligibility criteria, they must immediately cease using the Platform\nand terminate their Account.",
+        "<strong>Account Security</strong>",
+        "Users are responsible for maintaining the confidentiality of their Steam account credentials and\nfor securing their linked Steam account from unauthorised access. Users must ensure their\nSteam account is adequately protected by enabling Steam Guard or other available security\nmeasures to minimize the risk of unauthorised access. Users are advised to remain vigilant\nagainst phishing attempts, scams, or fraudulent activities targeting Steam or Platform accounts.\nThe Platform is not liable for any losses resulting from such activities.",
+        "<strong>Account Ownership and Responsibility",
+        "Each Account must be owned and operated by a single individual. Sharing, selling, or\ntransferring accounts is strictly prohibited. Users are fully responsible for all activities conducted\nunder their Account, whether authorised by them or not. If a User suspects that their Account\nhas been compromised, they must notify the Platform immediately.",
+        "<strong>Prohibited Activities</strong>",
+        "The use of bots, automated software, or other unauthorised tools to access or manipulate the\nPlatform is strictly prohibited. Users must not impersonate others, engage in fraudulent\nactivities, or use stolen Steam accounts to access the Platform. The Platform reserves the right\nto investigate and take action, including suspension or termination of Accounts, in cases of\nsuspected fraud, misuse, or breach of these Terms.",
+        "<strong>Account Suspension or Termination</strong>",
+        "The Platform reserves the right to suspend or terminate any Account at its sole discretion if it\ndetermines that a User has violated the Terms of Use or engaged in prohibited activities.\nSuspended or terminated Accounts may lose access to any funds or Skins associated with the\nAccount, subject to further investigation.",
+        "<strong>No Guarantee of Service</strong>",
+        "While the Platform strives to provide uninterrupted service, it does not guarantee continuous\naccess to Accounts or services. Technical issues, account restrictions from Steam, or other\nfactors beyond the Platform’s control may impact access.",
+        "<strong>Compliance with Steam's Terms</strong>",
+        "By using the Platform, Users agree to comply with Steam's terms of service and community\nguidelines, as the use of Steam accounts is integral to the operation of the Platform. Any\nviolation of Steam's rules that impacts the User’s ability to access their Steam account may also\nresult in the suspension or termination of their Platform Account."
+      ]
+    },
+    {
+      "title": "Purchasing and Selling Skins",
+      "texts": [
+        "<strong>Purchase Process</strong>",
+        "Users can browse and purchase CS2 (CS:GO) skins listed on the Platform. Before completing a\npurchase, all applicable fees and commissions will be clearly displayed at checkout. By\nproceeding with payment, the User confirms that they have reviewed and agreed to these fees. If\nthe User does not understand the displayed fees, they should contact Customer Support for\nclarification before completing the transaction. Misunderstanding or lack of awareness of fees\nwill not be grounds for a refund of the Platform's commission.",
+        "Additional fees or charges may be imposed by the User’s payment provider or bank (e.g.,\nforeign transaction fees). Users are advised to review their bank’s policies to avoid unexpected\ncharges.",
+        "<strong>Item Delivery</strong>",
+        "After completing the purchase, one of the Platform’s accounts will send the purchased item(s)\nvia a trade offer on Steam. While most trade offers are processed almost instantly, the Platform\nreserves a delivery window of up to 24 hours.",
+        "Users must ensure that their trade link is correctly set in their Platform account settings and they\ncan accept trade offers (e.g., their Steam account is not restricted or trade-banned).",
+        "The Platform is not responsible for delays caused by incomplete or incorrect trade links or\nSteam restrictions on the User’s account.",
+        "<strong>Selling Process</strong>",
+        "Users can list their CS2 (CS:GO) skins for sale on the Platform. Once an item is sold, the\nproceeds will be credited to the User’s Platform account balance within a few hours, but no later\nthan 24 hours.",
+        "In order to sell skins on our Platform, you are required to adhere to all applicable Steam rules\nand guidelines. Furthermore, to ensure the integrity of transactions, prevent potential misuse,\nand uphold high security standards, only accounts with a minimum Level 5 status are eligible to\nparticipate in skin sales on our Platform.",
+        "<strong>Withdrawals</strong>",
+        "Users can withdraw their balance to their original payment method. Withdrawals to alternate\nmethods are not supported for security reasons.",
+        "Withdrawal requests are typically processed by the Platform within 3 business days. However,\nthe time it takes for funds to appear in the User’s account depends on the policies of their\npayment provider or bank. Users are encouraged to review their bank’s processing times to\navoid any confusion."
+    ]
+        },
+    {
+      "title": "Refund Policy",
+      "texts": [
+        "Users may request a refund within 30 days of a transaction if there is a valid and substantiated\nreason. Item(s) returns are possible but not guaranteed. Each case will be reviewed individually\nby the Platform’s support team.\nRefund requests are reviewed within up to 5 business days, but complex cases may take up to\n10 business days for resolution. If a refund is approved, payment will be processed within 3\nbusiness days. Refunds will only be issued to the original payment method used for the\ntransaction. The time it takes for refunded funds to appear in the User’s account depends on the\nUser’s payment provider or bank. The Platform advises Users to review their bank’s policies to\nunderstand potential delays."
+      ]
+    },
+    {
+      "title": "Valid Reasons for Refunds",
+      "texts": [
+        "A refund may be issued only under the following specific and substantiated circumstances:",
+        "<strong>Non-Delivery of Purchased Skins</strong>",
+        "The User completed payment, but the Platform failed to deliver the purchased skin(s) within 24\nhours from the time of purchase. The User's trade link was correct, and their Steam account\nwas able to receive trades at the time of the transaction.",
+        "<strong>Delivery of Incorrect Skin(s)</strong>",
+        "The Platform delivered a skin that differs from the one purchased (e.g., incorrect skin type,\nquality, or wear). The User must provide evidence, such as trade history or screenshots, to\ndemonstrate the error.",
+        "<strong>Technical Issues with the Platform</strong>",
+        "A confirmed technical malfunction of the Platform directly caused the User to lose funds or fail to\nreceive purchased items. Examples include payment processing errors or issues that occurred\ndespite the User following all provided instructions.",
+        "<strong>Unauthorised Transactions</strong>",
+        "A transaction was completed without the User’s consent, such as in the case of fraud or account\ncompromise. The User must provide evidence, such as communication with their bank or\nSteam, confirming the unauthorised activity.",
+        "<strong>Platform Cancellation of Transactions</strong>",
+        "The Platform cancels a purchase or sale for reasons beyond the User’s control (e.g., inventory\nissues on the Platform’s side).",
+        "<strong>Duplicate Payment</strong>",
+        "The User unintentionally completed the same payment twice for a single transaction.",
+        "<strong>Error in Deducted Commission or Fees</strong>",
+        "A confirmed miscalculation or overcharge of commissions or fees by the Platform.",
+        "<strong>Non-Valid Reasons for Refunds</strong>",
+        "To clarify, the following cases do not qualify for refunds:",
+        "● The User did not understand the fees or commissions but proceeded with the\ntransaction.",
+        "● Additional fees or delays caused by the User's payment provider, bank, or Steam\nrestrictions.",
+        "● The User provided an incorrect trade link, failed to update their Steam settings, or was\nunable to accept a trade offer due to Steam restrictions.",
+        "● Requests for refunds beyond the 30-day window from the transaction date, regardless of\nthe circumstances."
+      ]
+    },
+    {
+      "title": "Marketplace Rules",
+      "texts": [
+        "To maintain a fair, secure, and transparent environment, all Users must adhere to the following\nrules while using the Platform:",
+        "<strong>Prohibited Activities</strong>",
+        "Engaging in any of the following activities is strictly forbidden and may result in immediate suspension or termination of the User’s account, as well as legal action where applicable:",
+        "● Listing or attempting to sell items that were obtained through theft, fraud, unauthorised access to accounts, or any other illicit means is strictly prohibited.",
+        "● Exploiting bugs, glitches, or vulnerabilities in the Platform, Steam, or any related systems to gain an unfair advantage or manipulate Marketplace transactions. Attempting to circumvent Platform fees, commissions, or trade processes.",
+        "● Any attempt to deceive or defraud other Users or the Platform, including but not limited to: impersonating other Users, support staff, or Platform representatives; providing false information during transactions; using third-party tools or websites to facilitate fraudulent activity; scamming or phishing attempts to compromise the accounts of others, including Steam accounts."
+
+      ]
+    },
+    {
+      "title": "",
+      "texts": [
+        "<strong>Violations and Consequences</strong>",
+        "The Platform reserves the right to investigate any suspected violations of these Marketplace\nRules. Violations may result in actions including, but not limited to: suspension or termination of\nthe User’s account; removal of listings or cancellation of transactions; forfeiture of funds or items\ninvolved in prohibited activities; or reporting of fraudulent or illegal activity to relevant authorities.",
+        "Users are encouraged to report any suspicious activities, scams, or violations of these rules to\nthe Platform’s Customer Support team for prompt investigation."
+      ]
+    },
+    {
+      "title": "Ownership and Intellectual Property",
+      "texts": [
+        "Users acknowledge that all Counter-Strike 2 (CS:GO, CS2) skins and related in-game items are\nthe exclusive property of Valve Corporation. Skins are provided to Users under a limited license\ngranted by Valve and are not owned by the User. This license allows Users to use, trade, or\ntransfer skins in accordance with Valve’s terms of service. The Platform facilitates transactions\ninvolving these skins but does not transfer ownership, as skins cannot be “owned” under\napplicable agreements with Valve.",
+        "The Platform operates independently of Valve Corporation and is not responsible for any\nchanges Valve may implement regarding the licensing, trading, or availability of skins. Users are\nresponsible for complying with Valve’s terms and policies when using, trading, or transferring\nskins.",
+        "<strong>Platform Intellectual Property</strong>",
+        "All content on the Platform, including but not limited to its design, text, graphics, logos,\ntrademarks, images, software, and other materials, is the sole property of the Platform or its\nlicensors. This content is protected by intellectual property laws, including copyright, trademark,\nand trade dress laws.",
+        "The Platform grants Users a limited, non-exclusive, non-transferable license to access and use\nthe Platform solely for its intended purposes (e.g., buying and selling skins). Users are\nprohibited from copying, modifying, distributing, or otherwise using any part of the Platform’s\ncontent without explicit written permission from the Platform.",
+        "The Platform’s trademarks, service marks, and logos are the exclusive property of the Platform.\nUsers may not use, reproduce, or display these trademarks without prior written consent.\nUnauthorised use may result in legal action.",
+        "<strong>Third-Party Rights</strong>",
+        "All CS2 (CS:GO) assets, including skins, designs, names, and logos, are the intellectual\nproperty of Valve Corporation and are used on the Platform for identification purposes only. The\nPlatform does not claim ownership of these assets and operates in accordance with Valve’s\nguidelines and policies.",
+        "Users must respect the intellectual property rights of third parties, including Valve and other\nUsers. Uploading, distributing, or trading any content that infringes on third-party rights is strictly\nprohibited.",
+        "If any User or third party believes that their intellectual property rights are being violated on the\nPlatform, they may contact <strong>Customer Support </strong> to report the issue. The Platform will review and\ntake appropriate action in accordance with applicable laws and policies."
+      ]
+    },
+    {
+      "title": "Limitations of Liability",
+      "texts": [
+        "The Platform is provided on an \"as-is\" and \"as-available\" basis. The Platform does not\nguarantee uninterrupted, error-free, or secure access to its services. The Platform shall not be\nheld liable for any technical errors, bugs, or glitches; scheduled or unscheduled downtime,\nmaintenance, or server disruptions; delays, interruptions, or failures in delivering items or\nprocessing transactions caused by technical issues, Steam service outages, or other factors\nbeyond the Platform's control.",
+        "The Platform is not responsible for any loss, deletion, or inaccessibility of digital items (e.g.,\nskins) or funds that may result from:",
+        "● User error, including providing incorrect trade links or payment details;",
+        "● Third-party service issues, including but not limited to Steam, payment providers, or\nbanks;",
+        "● Unauthorised access to the User's account caused by compromised credentials,\nphishing, or negligence.",
+        "Users are solely responsible for ensuring the security of their accounts, including Steam\naccounts, trade links, and payment details.",
+        "To the fullest extent permitted by law, the Platform is not liable for any indirect, incidental,\nspecial, consequential, or punitive damages arising from the use of or inability to use the\nPlatform. This includes, but is not limited to, loss of profits, loss of digital assets, business\ninterruption, or reputational damage.",
+        "The Platform is not affiliated with, endorsed by, or sponsored by Valve Corporation. Valve\nretains full ownership and control of all Counter-Strike 2 (CS:GO, CS2) assets, including skins\nand related intellectual property.",
+        "Users acknowledge that Valve has no involvement in the operation of the Platform and bears no\nresponsibility for any issues, losses, or disputes that may arise from the use of the Platform's\nservices."
+      ]
+    },
+    {
+      "title": "Dispute Resolution",
+      "texts": [
+        "Users may report any issues, including but not limited to scams, disputes, unauthorised\ntransactions, or technical problems, through the Platform's Customer Support channels.",
+        "Reports must include all relevant details and evidence, such as: transaction IDs, trade history, or\npayment confirmations; screenshots or descriptions of the issue; any supporting documentation\nto substantiate the claim.",
+        "Users are encouraged to report issues as soon as possible, but no later than 30 days from the\ndate the problem occurred. Delayed reports may hinder the Platform's ability to resolve the\nissue effectively."
+      ]
+    },
+    {
+      "title": "Governing Law",
+      "texts": [
+        "These Terms of Use, as well as any disputes or claims arising out of or in connection with them,\nthe Platform, or its services, shall be governed by and construed in accordance with the laws of\nEngland and Wales, without regard to conflict of law principles."]
+    },
+    {
+      "title": "Termination and Changes to Terms",
+      "texts": [
+        "The Platform reserves the right to suspend or terminate a User’s account at any time, with or\nwithout notice, under the following conditions:",
+        "● Violation of these Terms of Use, Marketplace Rules, or other Platform policies.",
+        "● Engagement in fraudulent, illegal, or prohibited activities, including scams, exploits, or\nmisuse of the Platform.",
+        "● Unauthorised access, attempted hacking, or compromise of the Platform’s systems or\nother Users' accounts.",
+        "● Providing false information during registration, transactions, or support inquiries.",
+        "Any activity that damages or could damage the Platform's operations, reputation, or the\nsafety of other Users.",
+        "Users may request the termination of their account at any time by contacting Customer Support.\nUpon account termination access to the Platform and its services will be revoked, any pending\ntransactions or withdrawals must be completed prior to closure, data associated with the\naccount will be handled in accordance with the Platform’s Privacy Policy.",
+        "Upon termination of an account the User forfeits any ongoing rights to access or use the\nPlatform’s services, any violation-related losses, including forfeited funds or items, will not be\nrefunded.",
+        "The Platform reserves the right to pursue legal action for serious breaches of these Terms.",
+        "The Platform reserves the right to modify, update, or replace these Terms of Use at any time to\nreflect changes in: legal or regulatory requirements; platform services, features, or policies;\nbusiness needs or industry practices."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - Checkout",
+    "description": "The checkout page of CS:GO Store allows you to easily and securely complete the purchase of your selected skins and accessories"
+  },
+  "funds": {
+    "title": "Add Funds",
+    "text": "Select how much wallet funds you want to purchase.",
+    "or": "or",
+    "amount_title": "Custom Amount",
+    "amount_text": "Amount must be between 1,00 € and 2 500,00 €."
+  },
+  "payment": {
+    "title": "Payment method",
+    "text": "Choose your payment method.",
+    "fee_text": "Fee",
+    "to_your_balance_text": "To your balance",
+    "card_number_label": "Card number",
+    "card_date_label": "MM / YY",
+    "pay_button_label": "Pay",
+    "pay_button_in_process_label": "Paying...",
+
+    "payment_some_products_error": "Some of the selected products ({{products}}) are out of stock and no longer available to buy.",
+    "payment_some_productss_error": "Some of the selected products are out of stock and no longer available to buy.",
+    "payment_system_error": "The system cannot process such a large order at the moment. Please try to reduce the amount.",
+    "payment_initialisation_error": "The payment system is currently unable to process your request. Please try again later or contact support if the issue persists.",
+    "payment_email_not_verified_error": "You need to verify your email before making any purchases. A verification letter has been sent to your email",
+    "iframe_pay_products": "Products:"
+  }
+}

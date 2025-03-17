@@ -1,0 +1,22 @@
+{
+  "search_placeholder": "Search...",
+  "email_is_required": "Email is required",
+  "email_format_is_invalid": "Email format is invalid",
+  "email_is_used": "The email has already been taken",
+  "message_is_required": "Message is required",
+
+  "email_label_text": "Enter email",
+  "email_placeholder": "username@example.com",
+
+  "trade_link_label_text": "Enter the trade link",
+  "trade_link_placeholder": "https://steamcommunity.com/tradeoffer/new/?partner=xxx&token=xxx",
+  "trade_link_is_required": "Trade link is required",
+  "trade_link_is_invalid": "Steam trade link has invalid format",
+
+  "card_number_is_required": "Card number is required",
+  "card_number_is_invalid": "Card number must contain 16 characters",
+  "date_is_required": "Date is required in MM/YY format",
+  "date_is_invalid": "Please enter a valid date in MM/YY format",
+  "cvc_is_required": "CVC is required",
+  "cvc_is_invalid": "CVC must contain 3 characters"
+}

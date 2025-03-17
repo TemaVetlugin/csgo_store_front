@@ -1,0 +1,22 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    container_name: just_front
+    ports:
+      - '3000:3000'
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+    networks:
+      - app-network
+      - front_app-front-network  # Ensure this is listed
+
+networks:
+  app-network:
+    external: true
+  front_app-front-network:
+    external: true

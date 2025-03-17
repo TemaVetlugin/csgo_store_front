@@ -1,0 +1,15 @@
+{
+  "buy_button_label": "Buy",
+  "product_options": [
+    {
+      "iconName": "SearchIcon",
+      "tooltipText": "See more items like this",
+      "href": ""
+    },
+    {
+      "iconName": "SearchCheckIcon",
+      "tooltipText": "Inspect in game",
+      "href": ""
+    }
+  ]
+}

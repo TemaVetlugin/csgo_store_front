@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - About Us",
+    "description": "Join our community and learn more about us, our values, and what we have to offer"
+  },
+  "title": "About",
+  "about-data": [
+    {
+      "title": "Unlock Your Fantasy",
+      "content": {
+        "text": "Welcome to our extraordinary realm of CS:GO skins, where the battlefield transforms into your canvas. Dive into an unparalleled selection of skins that breathe life into your character and weapons, crafting a distinctive style and personality. Our skins are meticulously categorized, spanning knives, rifles, pistols, and beyond, catering to every facet of your creative vision."
+      },
+      "icon": "InfoIcon"
+    },
+    {
+      "title": "Unwavering Quality and Reliability",
+      "content": {
+        "text": "Our commitment rests on providing nothing less than the official and authenticated CS:GO skins. Each undergoes rigorous authenticity scrutiny, ensuring your arsenal not only dazzles visually but operates flawlessly. Trust that every skin procured from us doesn't just look incredible—it functions with unmatched precision."
+      },
+      "icon": "AwardIcon"
+    },
+    {
+      "title": "A Symphony of Styles",
+      "content": {
+        "text": "Delve into a treasure trove of design diversity, from timeless minimalism to audacious exotica. Regardless of your inclination, our expansive selection of skins empowers you to shine on the battlefield and showcase your unique identity."
+      },
+      "icon": "AxeIcon"
+    },
+    {
+      "title": "Exclusivity Awaits",
+      "content": {
+        "text": "Stay ahead of the curve with our frequently refreshed inventory, delivering the latest skins and exclusive offers right to your doorstep. By subscribing to our newsletter or joining our social media circle, you'll be the first to seize new arrivals and exclusive promotions."
+      },
+      "icon": "BriefcaseIcon"
+    },
+    {
+      "title": "Support and Fortified Security",
+      "content": {
+        "text": "Our dedicated team stands vigilant, poised to assist you whenever you need. Questions or hiccups along the way? Reach out to our stellar support service, and we'll swiftly guide you. Rest assured, your data and payments are fortress-secure during every purchase, guaranteed."
+      },
+      "icon": "KeyRoundIcon"
+    },
+    {
+      "title": "General",
+      "content": {
+        "text": "These rules aim to ensure a safe and satisfactory environment for all users. Both players and the platform are expected to follow these rules to maintain order and fairness on our platform. Understanding and compliance with the rules are key to a successful and enjoyable experience using our service. If you have any questions or uncertainties, please feel free to reach out to the platform for additional clarification or assistance.",
+        "items": [
+          {
+            "strong": "Respect:",
+            "text": "We expect all participants on our platform to treat each other with respect. Hateful speech, discrimination, and insults are strictly prohibited."
+          },
+          {
+            "strong": "Prohibited Content:",
+            "text": "Posting and selling skins that violate CS:GO rules or local laws is not allowed."
+          },
+          {
+            "strong": "Account Security:",
+            "text": "Your account's security is paramount. Never share your account details with anyone, including the administration."
+          },
+          {
+            "strong": "Fair Transactions:",
+            "text": "Honesty and adherence to transaction terms are essential. Fraud and deception will not be tolerated."
+          }
+        ]
+      },
+      "icon": "BrainIcon"
+    },
+    {
+      "title": "Rights and Duties of Players",
+      "content": {
+        "items": [
+          {
+            "strong": "Buying and Selling Skins:",
+            "text": "Players have the right to buy and sell skins on our platform, following the rules and conditions."
+          },
+          {
+            "strong": "Compliance with Rules:",
+            "text": "Players are obliged to follow all general rules and conditions set by the platform."
+          },
+          {
+            "strong": "User Content:",
+            "text": "Players are responsible for the content they post. Posting information that violates rules and laws is prohibited."
+          },
+          {
+            "strong": "Account Security:",
+            "text": "Players must ensure their account's security and avoid sharing account details with third parties."
+          }
+        ]
+      },
+      "icon": "Gamepad2Icon"
+    },
+    {
+      "title": "Rights and Duties of Platform",
+      "content": {
+        "items": [
+          {
+            "strong": "Moderation:",
+            "text": "The platform can moderate content and actions on the platform and take action in case of violations."
+          },
+          {
+            "strong": "Dispute Resolution:",
+            "text": "The platform can intervene and resolve disputes between players when necessary."
+          },
+          {
+            "strong": "Updates and Changes:",
+            "text": "The platform can make changes to the platform's rules and conditions, notifying players accordingly."
+          },
+          {
+            "strong": "Compliance with Laws:",
+            "text": "The platform commits to adhering to laws and regulations concerning the platform's operation."
+          }
+        ]
+      },
+      "icon": "ListIcon"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "types": {
+    "label": "Type",
+    "items": [{ "text": "Buy" }, { "text": "Sell" }]
+  },
+  "statuses": {
+    "label": "Status",
+    "items": [
+      { "text": "Accepted", "value": "accepted" },
+      { "text": "Creating Trade", "value": "creating_trade" },
+      { "text": "Waiting Accept", "value": "waiting_accept" },
+      { "text": "Canceled", "value": "canceled" },
+      { "text": "Timeout", "value": "timeout" },
+      { "text": "Invalid Trade Token", "value": "invalid_trade_token" },
+      { "text": "User Not Tradable", "value": "user_not_tradable" },
+      { "text": "Trade Create Error", "value": "trade_create_error" },
+
+      { "text": "Market Disabled", "value": "market_disabled" },
+      { "text": "Skin Unavailable", "value": "skin_unavailable" },
+      {
+        "text": "Skins Not Found At Specified Price",
+        "value": "skins_not_found_at_specified_price"
+      },
+      { "text": "Invalid Partner Value", "value": "invalid_partner_value" },
+      { "text": "Request Limit Reached", "value": "request_limit_reached" },
+      { "text": "Unknown Error", "value": "unknown_error" }
+    ]
+  },
+  "price": {
+    "label": "Price",
+    "items": [{ "text": "Max" }, { "text": "Min" }]
+  }
+}

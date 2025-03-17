@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - Privacy Policy",
+    "description": "The Privacy Policy page at CS:GO Store details how we collect, use, and protect the personal information of our customers."
+  },
+  "title": "Privacy Policy",
+  "text": "",
+  "list": [
+    {
+      "title": "",
+      "text": "23",
+      "texts": [
+        "<strong>Owner and data Controller</strong>",
+        "Ewanest Limited is a company registered under the laws of England and Wales with the\nregistration number 15321686. Its registered office is located at Forrest House Business Centre,\n8 Gainsborough Road, London, E11 1HT, United Kingdom.\nFor privacy and data-related inquiries, please contact us at: info@csgostore.co.uk"
+      ]
+    },
+    {
+      "title": "Types of Data Collected",
+      "texts": [
+        "<strong>Personal Data</strong>",
+        "Ewanest Limited (operating as CS:GO Store) collects various types of personal data, both\ndirectly and through third-party services. This includes, but is not limited to cookies, usage data,\nSteam trade link",
+        "Detailed information about each type of personal data collected is available in the relevant\nsections of this policy or in specific notices displayed prior to data collection."
+      ]
+    },
+    {
+      "title": "Mandatory Data Requests",
+      "texts": [
+        "Unless specified otherwise, all data requested by CS:GO Store is mandatory for providing our\nservices. Failure to provide this data may prevent the delivery of these services. Where optional\ndata is identified, users may choose not to provide it without affecting the functionality or\navailability of the services."
+      ]
+    },
+    {
+      "title": "Use of Cookies and Tracking Tools",
+      "texts": [
+        "CS:GO Store and its third-party service providers use cookies and other tracking technologies\nto deliver essential services and fulfill additional purposes outlined in this Privacy Policy and our\nCookie Policy."
+      ]
+    },
+    {
+      "title": "User Responsibility for Third-Party Data",
+      "texts": [
+        "Users of CS:GO Store are responsible for ensuring any personal data they provide relating to\nthird parties has been lawfully obtained, published, or shared."
+      ]
+    },
+    {
+      "title": "Methods and Location of Data Processing",
+      "texts": [
+        "Ewanest Limited employs robust security measures to prevent unauthorized access, disclosure,\nmodification, or destruction of data. Processing of personal data is carried out using computers\nand/or IT systems in line with organizational procedures and purposes described herein.",
+        "In addition to Ewanest Limited’s internal personnel, data may also be accessible to external\nparties (e.g., hosting providers, IT companies, marketing services, etc.) who act as data\nprocessors when necessary. A full, updated list of such parties is available upon request."
+      ]
+    },
+    {
+      "title": "Location of Data Processing",
+      "texts": [
+        "Data is processed at the registered office of Ewanest Limited and other locations where\nprocessing-related parties are based. Depending on a user’s location, data transfers may\ninvolve moving information to a country outside of the United Kingdom. Users can request more\ndetails about data transfers by contacting us."
+      ]
+    },
+    {
+      "title": "Data Processing Objectives",
+      "texts": [
+        "User data is collected and processed for the following purposes:",
+        "● Providing services offered by CS:GO Store",
+        "● Complying with legal obligations",
+        "● Protecting the rights and interests of Ewanest Limited, its users, or third parties",
+        "● Fraud detection and prevention",
+        "● Analysis and tracking of website traffic",
+        "● Marketing, advertising, and behavioral targeting",
+        "● Managing user communications and interactions",
+        "Specific purposes include traffic optimization, hosting, infrastructure services, analytics, and\ninteraction with external social networks. Details for each purpose are available upon request.",
+        "Personal data is retained as long as necessary for the purposes for which it was collected,\nunless a longer retention period is required by law. Users may request deletion of their data\nunder certain circumstances (see \"User Rights\" below)."
+      ]
+    },
+    {
+      "title": "Analytics",
+      "texts": [
+        "This service connects data from the Google Ads network with actions performed on the CS:GO\nStore website.",
+        "● Processed data: Cookies, Usage Data",
+        "● Place of processing: Ireland – Privacy Policy",
+        "Google Analytics collects data to analyze website usage, prepare reports, and enhance user\nexperiences.",
+        "● Place of processing: Ireland – Privacy Policy – Opt-Out"
+      ]
+    },
+    {
+      "title": "Hosting and Server Infrastructure",
+      "texts": [
+        "<strong>GitHub Pages (GitHub Inc.)</strong>",
+        "A hosting service provided by GitHub, Inc.",
+        "● Processed data: Various types of data as specified in GitHub’s privacy policy",
+        "● Place of processing: United States – Privacy Policy",
+        "<strong>OVHcloud (OVH BV)</strong>",
+        "A hosting and backend service provided by OVH BV.",
+        "● Processed data: Usage Data",
+        "● Place of processing: Netherlands – Privacy Policy"
+      ]
+    },
+    {
+      "title": "Additional Information about Data Collection and Processing",
+      "texts": [
+        "User personal data may be used for legal purposes, such as in court proceedings or in\nresponse to lawful requests by public authorities.",
+        "CS:GO Store and its third-party services may collect system logs and other data (e.g., IP\naddresses) for operational and maintenance purposes.",
+        "Additional and contextual information about personal data collection and processing may be\nrequested at any time using the contact information provided."
+      ]
+    },
+    {
+      "title": "Changes to This Privacy Policy",
+      "texts": [
+        "Ewanest Limited reserves the right to amend this privacy policy at any time. Changes will be\ncommunicated on this page and, where feasible, through direct communication using available\nuser contact information. Users are encouraged to review this page periodically."
+      ]
+    }
+  ]
+}

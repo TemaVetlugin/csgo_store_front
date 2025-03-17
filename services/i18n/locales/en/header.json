@@ -1,0 +1,21 @@
+{
+  "links": [
+    {
+      "name": "Home",
+      "href": "/"
+    },
+    {
+      "name": "Store",
+      "href": "/store"
+    },
+    {
+      "name": "FAQ",
+      "href": "/faq"
+    },
+    {
+      "name": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "login_using_steam_button_label": "Login using Steam"
+}

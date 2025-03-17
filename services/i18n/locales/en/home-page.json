@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - Online Showcase of Top Skins",
+    "description": "Discover a wide selection of CS:GO skins and items. Explore our user-friendly platform to easily buy  CS:GO assets."
+  },
+  "popular_title_text": "Popular",
+  "csgo_items_title_text": "CS:GO Items",
+  "subscription": {
+    "text": "Subscribe To Our News, Promotions And Updates",
+    "subscribe_button_label": "Subscribe",
+    "subscribe_button_in_process_label": "Subscribing...",
+    "input_placeholder": "skin_seeker@example.com"
+  }
+}

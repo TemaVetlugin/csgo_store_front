@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "title": "CS:GO Store - Profile",
+    "description": "On the profile page in CS:GO Store, you can manage your personal data, view order history, and adjust your account settings"
+  },
+  "tabs": [
+    { "text": "User Info", "value": "user-info", "icon": "UserIcon" },
+    { "text": "Transactions", "value": "transactions", "icon": "BookOpenIcon" },
+    { "text": "Log Out", "value": "log-out", "icon": "LogoutIcon" }
+  ],
+  "user_info": {
+    "profile": {
+      "title": "Profile",
+      "registration": "Registration:",
+      "trades": "Trades:",
+      "email": "Email:"
+    },
+    "general_information": {
+      "title": "General Information",
+      "trade_link": "Trade link:",
+      "steam_id64": "Steam ID64:"
+    },
+    "save_button_label": "Save",
+    "save_button_in_process_label": "Saving..."
+  },
+  "transactions": {
+    "title": "Transactions",
+    "table": {
+      "columns": [
+        {
+          "accessorKey": "image",
+          "header": "Details"
+        },
+        {
+          "accessorKey": "details",
+          "header": ""
+        },
+        {
+          "accessorKey": "type",
+          "header": "Type"
+        },
+        {
+          "accessorKey": "transactionId",
+          "header": "Transaction ID"
+        },
+        {
+          "accessorKey": "status",
+          "header": "Status"
+        },
+        {
+          "accessorKey": "price",
+          "header": "Price"
+        },
+        {
+          "accessorKey": "date",
+          "header": "Date"
+        }
+      ]
+    },
+    "prev_button_label": "Previous",
+    "next_button_label": "Next"
+  },
+  "log_out": {
+    "title": "Log Out",
+    "text": "Are you sure you want to go out?",
+    "log_out_button_label": "Log Out"
+  }
+}

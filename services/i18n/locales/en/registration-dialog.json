@@ -1,0 +1,9 @@
+{
+  "title": "Registration",
+  "trade_link_tooltip": "Trade link is the address where we will send you trade offers. Without it, trades on the site will be unavailable.",
+  "confirm_text": "I accept the terms of use and refund policy and confirm that I have read and understood the Privacy policy and Cookie policy.",
+  "get_button_label": "Get",
+  "continue_button_label": "Continue",
+  "sign_in_with_another_account_text": "Sign in with another account?",
+  "log_out_text": "Log out"
+}

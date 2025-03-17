@@ -1,0 +1,12 @@
+{
+  "price": { "title": "Price" },
+  "type": { "title": "Type", "placeholder": "Select a type..." },
+  "weapons": { "title": "Weapons", "placeholder": "Select a weapon..." },
+  "exterior": { "title": "Exterior" },
+  "qualities": { "title": "Qualities" },
+  "rarity": { "title": "Rarity" },
+  "stickers_on_the_skin": {
+    "title": "Stickers",
+    "placeholder": "Select a sticker..."
+  }
+}
